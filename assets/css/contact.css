@@ -1,0 +1,19 @@
+/* Banner */
+.banner .col-6{
+    padding: 0;
+}
+
+.contact .icon{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid #2d343f;
+    text-align: center;
+    margin-right: 8px;
+   
+    font-size: 1.33333em;
+}
+
+.contact-icon {
+    font-size: 18px;
+}

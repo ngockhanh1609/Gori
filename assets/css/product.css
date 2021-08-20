@@ -1,0 +1,31 @@
+body,html{
+    height: 100%;
+}
+.banner{
+    background: url("/Image/product/productpage/110185127_2689532287984115_3944075552291402253_n.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+/* prodict */
+.sort-container{
+    border:1px solid #ccc;
+    font-size: 15px;
+    cursor: pointer;
+    width: 220px;
+}
+.sort:hover  .dropdown-menu{
+    display: block;
+}
+.dropdown-menu{
+    left: 15px;
+    border-radius: 0;
+    top: 41px;
+    border: 1px solid #ccc;
+    font-size: 15px;
+    width: 220px;
+}
+.fas{
+    line-height: 1.5 !important;
+}

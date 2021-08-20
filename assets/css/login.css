@@ -1,0 +1,17 @@
+form{
+width: 360px;
+
+}
+.form-control{
+    font-size: 15px !important;
+}
+button,
+input{
+    border-radius: 0 !important;
+    border: 1px solid #000 !important;
+    
+}
+input:focus{
+   box-shadow: none !important;
+}
+
